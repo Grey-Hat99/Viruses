@@ -3,6 +3,7 @@ import os
 import time
 import pyfiglet 
 import keyboard 
+import requests
 
 # Body 
 banner = pyfiglet.figlet_format("*Virus*")
